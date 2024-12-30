@@ -1,0 +1,4 @@
+"C:\Users\João Pedro Salgado\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/João Pedro Salgado/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\POO_Projeto_2024-25 -B C:\POO_Projeto_2024-25\cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/POO_Projeto_2024-25/cmake-build-debug

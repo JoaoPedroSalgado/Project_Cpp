@@ -1,0 +1,3 @@
+C:/POO_Projeto_2024-25/cmake-build-debug/CMakeFiles/POO_Projeto_2024_25.dir
+C:/POO_Projeto_2024-25/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/POO_Projeto_2024-25/cmake-build-debug/CMakeFiles/rebuild_cache.dir
