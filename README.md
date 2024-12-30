@@ -1,6 +1,6 @@
 # Trabalho Poo
- May god duraes help us
-
+ Por João Pedro Salgado e Henrique Marques
+ 
 # Viagens no deserto
 
 Caravanas
