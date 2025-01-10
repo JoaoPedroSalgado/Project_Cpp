@@ -1,6 +1,9 @@
 # Trabalho Poo
- Por João Pedro Salgado e Henrique Marques
+ By João Pedro Salgado e Henrique Marques
  
+# This is a resume of what we have to do in Portuguese:
+- Original file can be found in the pdf
+
 # Viagens no deserto
 
 Caravanas
