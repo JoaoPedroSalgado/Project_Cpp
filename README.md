@@ -2,7 +2,7 @@
  By João Pedro Salgado e Henrique Marques
  
 # This is a resume of what we have to do in Portuguese:
-- Original file can be found in the pdf
+- Original file can be found in the pdf (POO - 2425 - Enunciado Trabalho Pratico.pdf)
 
 # Viagens no deserto
 
